@@ -1,3 +1,5 @@
-build/
-dist/
-*.egg-info
+data
+secrets.py
+CarrefourCLI.egg-info/
+__pycache__/
+mi_secrets.py
